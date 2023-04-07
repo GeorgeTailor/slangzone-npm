@@ -1,1 +1,4 @@
-# slangzone-npm
+# slangzone
+
+український сленг
+https://www.slangzone.net
